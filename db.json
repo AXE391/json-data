@@ -1,42 +1,32 @@
 {
     "posts": [
-        {
-            "name": "Kurt",
-            "body": "testing",
-            "id": "1"
-        },
-        {
-            "name": "Elliot",
-            "body": "testing",
-            "id": "2"
-        },
-        {
-            "name": "Nick",
-            "body": "testing",
-            "id": "3"
-        },
-        {
-            "name": "Ian",
-            "body": "testing",
-            "id": "4"
-        },
-        {
-            "name": "Jeff",
-            "body": "testing",
-            "id": "5"
-        },
-        {
-            "name": "Daniel",
-            "body": "testing",
-            "id": "6"
-        },
-        {
-            "name": "Lou",
-            "body": "testing",
-            "id": "7"
-        }
+      {
+        "id": 1,
+        "title": "KURT"
+      },{
+        "id": 2,
+        "title": "JIM"
+      },{
+        "id": 3,
+        "title": "LOU"
+      },{
+        "id": 4,
+        "title": "JIMMI"
+      },{
+        "id": 5,
+        "title": "ELLIOT"
+      },{
+        "id": 6,
+        "title": "JEFF"
+      },{
+        "id": 7,
+        "title": "IAN"
+      },{
+        "id": 8,
+        "title": "JANNIS"
+      }
     ],
     "profile": {
-        "name": "typicode"
+      "name": "typicode"
     }
-}
+  }
