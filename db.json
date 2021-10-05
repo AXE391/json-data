@@ -2,28 +2,36 @@
     "posts": [
       {
         "id": 1,
-        "title": "KURT"
+        "title": "KURT",
+         "status": "active"
       },{
         "id": 2,
         "title": "JIM"
+           "status": "active"
       },{
         "id": 3,
         "title": "LOU"
+           "status": "inactive"
       },{
         "id": 4,
         "title": "JIMMI"
+           "status": "active"
       },{
         "id": 5,
         "title": "ELLIOT"
+           "status": "active"
       },{
         "id": 6,
         "title": "JEFF"
+           "status": "inactive"
       },{
         "id": 7,
         "title": "IAN"
+           "status": "inactive"
       },{
         "id": 8,
         "title": "JANNIS"
+           "status": "active"
       }
     ],
     "profile": {
